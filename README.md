@@ -1,6 +1,6 @@
 # Hyperlube ExxonMobil
 You should find an ipynb file that is used to train and predict in folder name Bootcathon ML. <br />
-Link to canva presentation : https://www.canva.com/design/DAGK7d-K9eg/A0KG_SGlrBQtsjYjxc7GHg/edit?utm_content=DAGK7d-K9eg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link to canva presentation : https://www.canva.com/design/DAGK7d-K9eg/azW3o0XTcDGALjVcKf_u3w/view?utm_content=DAGK7d-K9eg&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Dashboard 
 ### RFM Analysis Dashboard
