@@ -1,4 +1,5 @@
 # Hyperlube ExxonMobil
+You should find an ipynb file that is used to train and predict in folder name 
 
 ## Dashboard 
 ### RFM Analysis Dashboard
